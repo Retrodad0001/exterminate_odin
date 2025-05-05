@@ -7,7 +7,7 @@ Learning the Odin language and SDL3  by building a simplified 2D rts game and sh
 
 Graphics were created by: mattwalkden.itch.io (mattwalkden.com)
 
-TODO picture
+![TextureAtlas](https://github.com/user-attachments/assets/fba13da6-8529-4889-9ab9-e97ea5de514c)
 
 ## Learning Resources
 
